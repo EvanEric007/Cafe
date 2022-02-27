@@ -29,32 +29,24 @@ android:fontFamily="serif"/>
 android:layout_width="match_parent"
 android:layout_height="wrap_content"
 android:textColor="@color/black"
-android:id="@+id/ed_username"
-android:layout_marginTop="20dp"
-android:hint="Enter Email"
-    />
-<EditText
-android:layout_width="match_parent"
-android:layout_height="wrap_content"
-android:textColor="@color/black"
-android:id="@+id/ed_password"
+android:id="@+id/ed_username1"
 android:hint="Enter Username"/>
 <EditText
 android:layout_width="match_parent"
 android:layout_height="wrap_content"
 android:textColor="@color/black"
-android:id="@+id/ed_confirm"
+android:id="@+id/ed_password1"
 android:hint="Enter Password"/>
 
 <Button
-android:id="@+id/btn_submit"
+android:id="@+id/btn_signin1"
 android:layout_width="173dp"
 android:layout_height="58dp"
 android:layout_gravity="center"
 android:layout_marginTop="50dp"
 android:background="@color/teal_200"
 android:fontFamily="sans-serif-thin"
-android:text="REGISTER"
+android:text="SIGN IN"
 android:textSize="24sp"
 android:textStyle="bold" />
 
