@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@drawable/food"
+    android:background="@drawable/b2"
     tools:context=".MainActivity">
     <ImageView
         android:layout_width="wrap_content"
@@ -32,6 +32,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:hint="Enter Username"
+        android:drawableStart="@drawable/ic_baseline_person_24"
+        android:drawableLeft="@drawable/ic_baseline_person_24"
         android:textColor="@color/black" />
 
     <EditText
@@ -39,6 +41,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Enter Passwords"
+        android:drawableStart="@drawable/ic_baseline_lock_24"
+        android:drawableLeft="@drawable/ic_baseline_lock_24"
         android:textColor="@color/black" />
 
     <EditText
@@ -46,30 +50,41 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Confirm Password"
+        android:drawableStart="@drawable/ic_baseline_person_24"
+        android:drawableLeft="@drawable/ic_baseline_person_24"
         android:textColor="@color/black" />
 
     <Button
         android:id="@+id/btn_submit"
         android:layout_width="124dp"
-        android:layout_height="58dp"
+        android:layout_height="35dp"
         android:layout_gravity="center"
+        android:textColor="@color/white"
         android:layout_marginTop="20dp"
-        android:background="@color/teal_200"
+        android:background="@color/black"
         android:fontFamily="sans-serif-thin"
         android:text="SUBMIT"
         android:textSize="24sp"
         android:textStyle="bold" />
 
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="----OR----"
+        android:fontFamily="sans-serif"
+        android:textAlignment="center"
+        android:textColor="@color/black"></EditText>
+
     <Button
         android:id="@+id/btn_signup"
         android:layout_width="128dp"
-        android:layout_height="58dp"
+        android:layout_height="30dp"
         android:layout_gravity="center"
         android:layout_marginTop="10dp"
-        android:background="@color/teal_200"
+        android:background="@color/black"
         android:fontFamily="sans-serif-thin"
         android:text="SIGN UP"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:textSize="24sp"
         android:textStyle="bold" />
 
@@ -79,7 +94,7 @@
         android:layout_marginTop="90dp"
         android:text="Copyrights &#169; LocalCraftFood Pvt Ltd, Lahore"
         android:textAlignment="center"
-        android:textColor="@color/blue" />
+        android:textColor="@color/black" />
 
 
 </LinearLayout>

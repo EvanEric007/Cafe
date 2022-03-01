@@ -3,9 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Evan Eric/AndroidStudioProjects/MyCafe2/app/src/main/res/drawable-v24/ic_baseline_lock_24.xml" value="0.117" />
+        <entry key="..\:/Users/Evan Eric/AndroidStudioProjects/MyCafe2/app/src/main/res/drawable-v24/ic_baseline_person_24.xml" value="0.117" />
+        <entry key="..\:/Users/Evan Eric/AndroidStudioProjects/MyCafe2/app/src/main/res/drawable/header_bg.xml" value="0.117" />
+        <entry key="..\:/Users/Evan Eric/AndroidStudioProjects/MyCafe2/app/src/main/res/drawable/ic_baseline_attach_money_24.xml" value="0.117" />
+        <entry key="..\:/Users/Evan Eric/AndroidStudioProjects/MyCafe2/app/src/main/res/drawable/ic_baseline_fastfood_24.xml" value="0.117" />
         <entry key="..\:/Users/Evan Eric/AndroidStudioProjects/MyCafe2/app/src/main/res/layout/Activity2.xml" value="0.1585144927536232" />
+        <entry key="..\:/Users/Evan Eric/AndroidStudioProjects/MyCafe2/app/src/main/res/layout/activity_contact.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/Evan Eric/AndroidStudioProjects/MyCafe2/app/src/main/res/layout/activity_home.xml" value="0.19927536231884058" />
         <entry key="..\:/Users/Evan Eric/AndroidStudioProjects/MyCafe2/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/Evan Eric/AndroidStudioProjects/MyCafe2/app/src/main/res/layout/activity_main2.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/Evan Eric/AndroidStudioProjects/MyCafe2/app/src/main/res/layout/activity_navigation.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/Evan Eric/AndroidStudioProjects/MyCafe2/app/src/main/res/layout/activity_review.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/Evan Eric/AndroidStudioProjects/MyCafe2/app/src/main/res/layout/activity_splash.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/Evan Eric/AndroidStudioProjects/MyCafe2/app/src/main/res/layout/activity_unknown.xml" value="0.19010416666666666" />
       </map>
     </option>
   </component>
